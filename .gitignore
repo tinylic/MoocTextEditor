@@ -14,7 +14,8 @@ hs_err_pid*
 # =========================
 # Operating System Files
 # =========================
-
+*.*ml
+*.css
 # OSX
 # =========================
 
@@ -58,6 +59,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.zip
 
 # Windows shortcuts
 *.lnk
+*.txt
+*.out
